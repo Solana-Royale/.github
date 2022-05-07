@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+We are Solana Royale, the next generation virtual online casino.
 <!--
 
 **Here are some ideas to get you started:**
