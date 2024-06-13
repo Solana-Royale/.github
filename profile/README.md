@@ -17,7 +17,7 @@ Welcome to the official GitHub page of **Solana Royale**, a premier crypto casin
 
 ## 📉 Closure
 
-> [!INFORMATION]
+> [!IMPORTANT]
 > Solana Royale was shut down in late 2022 due to the decline of the crypto market.
 
 Unfortunately, **Solana Royale** was shut down in late 2022 due to the decline of the crypto market.
